@@ -1,9 +1,7 @@
 sensors:
-  - mac: a4:c1:38:8f:6b:b4
+  - mac: a4:c1:38:8f:3a:b4
     location: Bedroom
-  - mac: a4:c1:38:0c:73:82 
+  - mac: a4:c1:38:0c:a2:82 
     location: Attic
-  - mac: a4:c1:38:47:a2:3a
-    location: Kids Bedroom 1
-  - mac: a4:c1:38:a8:51:6b 
-    location: Kids Bedroom 2
+  - mac: a4:c1:38:47:73:3a
+    location: Kids Bedroom
